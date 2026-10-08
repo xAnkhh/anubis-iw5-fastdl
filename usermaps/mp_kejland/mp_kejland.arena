@@ -1,0 +1,12 @@
+{
+	map			"mp_kejland"
+	longname	"Kejland"
+	gametype	"dm war sab sab2 dom sd sd2 hc thc ctf koth inf"
+	description "MPUI_DESC_MAP_KEJLAND"
+	mapimage    "preview_mp_kejland"
+	mapoverlay  "compass_overlay_map_blank"
+	allieschar  "delta_multicam"
+	axischar    "opforce_air"
+	environment	"urban"
+	mappack		"27"
+}
